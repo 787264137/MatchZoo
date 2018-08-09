@@ -1,0 +1,5 @@
+自动摘要的代码
+keyword_summary.py,keyword2_summary.py都是根据关键句中含关键词的情况来确定摘要
+sumy_summary.py是Github上sumy关于自动摘要的8种方法的实现
+textrank_summary.py是textrank的一种实现
+textrank4th_summary.py是Github上TextRank4zh的包的自动摘要的实现。
